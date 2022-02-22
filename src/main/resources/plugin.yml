@@ -1,0 +1,6 @@
+name: SkyWars
+version: ${project.version}
+main: com.jadir.skywars.skywars.SkyWars
+commands:
+  skywars:
+    description: 'Comando do skywars.'

@@ -1,0 +1,5 @@
+#true -> Apenas um game/ false -> Mais que um game.
+single-mode: true
+
+#Número máximo de partidas.
+max-games: -1

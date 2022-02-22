@@ -1,0 +1,8 @@
+games:
+  islands:
+    displayName: 'Teste'
+    maxPlayers: 8
+    minPlayers: 2
+    isTeamGame: false
+    lobby: "x/y/z"
+    spawns: []

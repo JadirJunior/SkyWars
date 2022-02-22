@@ -1,0 +1,6 @@
+name: SkyWars
+version: 1.0-SNAPSHOT
+main: com.jadir.skywars.skywars.SkyWars
+commands:
+  skywars:
+    description: 'Comando do skywars.'
